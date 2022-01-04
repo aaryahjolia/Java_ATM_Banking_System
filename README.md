@@ -18,7 +18,7 @@ Concepts used:
 4. File Handling
 5. Exception Handling
 
-# For Screenshot of Outputs :
+For Screenshot of Outputs :
 Refer to PDF File in Uploads.
 
-Don't Forget to Fork Repository and Follow me on Github.
+Don't Forget to Fork Repository and Follow me on Github ;)
